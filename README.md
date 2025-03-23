@@ -23,10 +23,3 @@ The analysis focuses on the following factors:
 - Jupyter Notebook
 - Kaggle
 
-## Project Files
-- Python Scripts: [Link to Python Scripts]
-- Data Files: [Link to Data Files]
-- IoT sensor data (If any) will be included in `data/` folder.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
